@@ -1,2 +1,2 @@
 # LearnWebFrontEnd
-Practicing pure HTML and CSS
+Practicing HTML, CSS, and Javascript
